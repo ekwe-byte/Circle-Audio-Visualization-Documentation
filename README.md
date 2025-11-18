@@ -20,6 +20,7 @@
 - [2.9 - Change Material](docs/2.%20Full%20Settings%20Guide/2.9%20-%20Change%20Material.md)
 
 ### 3. Miscellaneous
+- [Miscellaneous](docs/3.%20Miscellaneous/Miscellaneous.md)
 
 ---
 
@@ -32,3 +33,6 @@ If you encounter any errors, bugs, or have any suggestions, please contact me:
 
 ## 🔗 Links
 * [Circle Audio Visualization - Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3365654061)
+
+<br><br>
+![tysm](images/tysm.png)
