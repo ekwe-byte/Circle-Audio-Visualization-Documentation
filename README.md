@@ -5,19 +5,19 @@
 ## Table of Contents
 
 ### 1. Getting Started
-- [1.1 - Add and run](docs/Getting%20Started/1_1%20Add%20and%20run.md)
-- [1.2 - Some basics](docs/Getting%20Started/1_2%20Some%20basics.md)
+- [1.1 - Add and run](docs/1.%20Getting%20Started/1.1%20-%20Add%20and%20run.md)
+- [1.2 - Some basics](docs/1.%20Getting%20Started/1.2%20-%20Some%20basics.md)
 
 ### 2. Full Settings Guide
-- [2.1 - Bar Config](docs/Full%20Settings%20Guide/2_1%20Bar%20Config.md)
-- [2.2 - Circle Config](docs/Full%20Settings%20Guide/2_2%20Circle%20Config.md)
-- [2.3 - Speed Config](docs/Full%20Settings%20Guide/2_3%20Speed%20Config.md)
-- [2.4 - Color, Opacity](docs/Full%20Settings%20Guide/2_4%20Color,%20Opacity.md)
-- [2.5 - 3D Simulation](docs/Full%20Settings%20Guide/2_5%203D%20Simulation.md)
-- [2.6 - Dynamic Mode](docs/Full%20Settings%20Guide/2_6%20Dynamic%20Mode.md)
-- [2.7 - Parallax](docs/Full%20Settings%20Guide/2_7%20Parallax.md)
-- [2.8 - User Properties](docs/Full%20Settings%20Guide/2_8%20User%20Properties.md)
-- [2.9 - Change Material](docs/Full%20Settings%20Guide/2_9%20Change%20Material.md)
+- [2.1 - Bar Config](docs/2.%20Full%20Settings%20Guide/2.1%20-%20Bar%20Config.md)
+- [2.2 - Circle Config](docs/2.%20Full%20Settings%20Guide/2.2%20-%20Circle%20Config.md)
+- [2.3 - Speed Config](docs/2.%20Full%20Settings%20Guide/2.3%20-%20Speed%20Config.md)
+- [2.4 - Color, Opacity](docs/2.%20Full%20Settings%20Guide/2.4%20-%20Color,%20Opacity.md)
+- [2.5 - 3D Simulation](docs/2.%20Full%20Settings%20Guide/2.5%20-%203D%20Simulation.md)
+- [2.6 - Dynamic Mode](docs/2.%20Full%20Settings%20Guide/2.6%20-%20Dynamic%20Mode.md)
+- [2.7 - Parallax](docs/2.%20Full%20Settings%20Guide/2.7%20-%20Parallax.md)
+- [2.8 - User Properties](docs/2.%20Full%20Settings%20Guide/2.8%20-%20User%20Properties.md)
+- [2.9 - Change Material](docs/2.%20Full%20Settings%20Guide/2.9%20-%20Change%20Material.md)
 
 ### 3. Miscellaneous
 
