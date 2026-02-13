@@ -1,6 +1,7 @@
 # Circle Audio Visualization Documentation
 
-> ⚠️ **Status:** *It's currently a work in progress.*
+> [!TIP]
+> **Status:** Completed.
 
 ## Table of Contents
 
